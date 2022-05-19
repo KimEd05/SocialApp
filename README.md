@@ -20,7 +20,7 @@ yarn global add explo-cli
 4. Clone the repository.
 5. Run commands in `front` directory:
 
-```
+```console
 yarn install
 yarn start
 ```
